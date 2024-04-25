@@ -1,4 +1,4 @@
-"""Serach Operation Array"""
+"""SEARCH OPERATION ARRAY"""
 
 # 1. Search Linear!
 """
@@ -56,6 +56,8 @@ except:
     ValueError
     print(f"Elemen {xs} tidak ditemukan di array!")
 
+
+"""INSERT OPERATION"""
 
 """
 implementation of inserting an element at the end atau penyeisipan elemen di akhir
