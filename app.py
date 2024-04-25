@@ -1,3 +1,6 @@
+"""h1~~~ Search, Insert, and Delete in an Unsorted Array | Array Operations ~~~h1"""
+
+
 """SEARCH OPERATION ARRAY"""
 
 # 1. Search Linear!
@@ -110,3 +113,5 @@ arrs = [1,2,3,4,5,6,7,8]
 new_elements = 9
 add_element_to_end_with_insert(arrs, new_elements)
 print(arrs) # Output : [1,2,3,4,5,6,7,8,9]
+
+"""INSERT AT ANY POSITION"""
